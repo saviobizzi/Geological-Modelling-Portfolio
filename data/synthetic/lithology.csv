@@ -1,0 +1,16 @@
+hole_id,from_m,to_m,lithology_code,lithology_name
+AG-DDH-001,0,18,SOIL,Residual soil
+AG-DDH-001,18,62,SCH,Weathered schist
+AG-DDH-001,62,120,GN,Fresh gneiss
+AG-DDH-002,0,12,SOIL,Residual soil
+AG-DDH-002,12,55,SCH,Weathered schist
+AG-DDH-002,55,98,QV,Quartz vein domain
+AG-DDH-002,98,150,GN,Fresh gneiss
+AG-DDH-003,0,20,SOIL,Residual soil
+AG-DDH-003,20,76,SCH,Weathered schist
+AG-DDH-003,76,135,GN,Fresh gneiss
+AG-DDH-004,0,15,SOIL,Residual soil
+AG-DDH-004,15,70,SCH,Weathered schist
+AG-DDH-004,70,118,QV,Quartz vein domain
+AG-DDH-004,118,160,GN,Fresh gneiss
+

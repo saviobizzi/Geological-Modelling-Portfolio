@@ -1,0 +1,27 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local application exports and caches
+*.tmp
+*.bak
+*.log
+*.lock
+
+# Heavy modelling outputs
+*.lfview
+*.lfm
+*.lfp
+*.obj
+*.ply
+*.las
+*.laz
+
+# Confidential or raw client material should not be committed
+data/raw/*
+!data/raw/.gitkeep
+
+# Keep large binary exports outside git unless intentionally sanitized
+outputs/exports/*
+!outputs/exports/.gitkeep
+
